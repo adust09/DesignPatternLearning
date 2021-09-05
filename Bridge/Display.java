@@ -3,6 +3,8 @@ public class Display {
 
     public Display(DisplayImpl impl) {
         this.impl = impl;
+
+
     }
 
     public void open() {
